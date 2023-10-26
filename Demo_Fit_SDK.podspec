@@ -21,16 +21,17 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Abhay Sharma/Demo_Fit_SDK'
+  s.homepage         = 'https://github.com/Abhay-Sharma-offc/Demo_Fit_SDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Abhay Sharma' => 'abhay.sharma.offc@gmail.com' }
-  s.source           = { :git => 'https://github.com/Abhay Sharma/ABW_Fit_SDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Abhay-Sharma-offc/Demo_Fit_SDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'ABW_Fit_SDK/Classes/**/*'
+  s.source_files = 'Classes/**/*.swift'
+  s.swift_version = '5.0'
   
   # s.resource_bundles = {
   #   'ABW_Fit_SDK' => ['ABW_Fit_SDK/Assets/*.png']

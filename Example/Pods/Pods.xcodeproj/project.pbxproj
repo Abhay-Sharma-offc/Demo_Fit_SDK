@@ -46,7 +46,7 @@
 		240F0DBEF147ECDF8BEA72C3091121B8 /* Pods-ABW_Fit_SDK_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ABW_Fit_SDK_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		28FB8BE83E8CD0498D53E279F909931B /* Pods-ABW_Fit_SDK_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ABW_Fit_SDK_Example-umbrella.h"; sourceTree = "<group>"; };
 		412595F4E7AD048F65A2430BB99CDD2F /* Pods-ABW_Fit_SDK_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ABW_Fit_SDK_Example"; path = Pods_ABW_Fit_SDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		41D80B3AD70BC8D0A47BAD8F16315B00 /* ABW_Fit_SDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ABW_Fit_SDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		41D80B3AD70BC8D0A47BAD8F16315B00 /* Demo_Fit_SDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = Demo_Fit_SDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5215A23E740A1C39871C7F51E3CB10DC /* Pods-ABW_Fit_SDK_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ABW_Fit_SDK_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		54AA6874D784B14381895713A2F92095 /* Pods-ABW_Fit_SDK_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ABW_Fit_SDK_Example-dummy.m"; sourceTree = "<group>"; };
 		59A0F8EF42463874871F70D15986FD95 /* Pods-ABW_Fit_SDK_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ABW_Fit_SDK_Tests-dummy.m"; sourceTree = "<group>"; };
@@ -107,7 +107,7 @@
 		0509FF1624BB829FFF2606CAC7B61B44 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				41D80B3AD70BC8D0A47BAD8F16315B00 /* ABW_Fit_SDK.podspec */,
+				41D80B3AD70BC8D0A47BAD8F16315B00 /* Demo_Fit_SDK.podspec */,
 				9627317F09699D0F847C9181E346665C /* LICENSE */,
 				B7F4810984092723C1CEB18BA3C1FA31 /* README.md */,
 			);
