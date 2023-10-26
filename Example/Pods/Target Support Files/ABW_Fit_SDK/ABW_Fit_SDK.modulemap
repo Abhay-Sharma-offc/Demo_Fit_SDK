@@ -1,0 +1,6 @@
+framework module ABW_Fit_SDK {
+  umbrella header "ABW_Fit_SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

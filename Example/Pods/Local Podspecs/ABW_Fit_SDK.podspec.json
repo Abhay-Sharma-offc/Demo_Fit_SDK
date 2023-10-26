@@ -1,0 +1,22 @@
+{
+  "name": "ABW_Fit_SDK",
+  "version": "0.1.0",
+  "summary": "A short description of ABW_Fit_SDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Abhay Sharma/ABW_Fit_SDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Abhay Sharma": "abhay.sharma1-v@adityabirlacapital.com"
+  },
+  "source": {
+    "git": "https://github.com/Abhay Sharma/ABW_Fit_SDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ABW_Fit_SDK/Classes/**/*"
+}
